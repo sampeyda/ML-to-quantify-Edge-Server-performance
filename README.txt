@@ -1,3 +1,5 @@
+How to implement the generated models to predict CPU performance
+
 1) Use extract-benchmark-data.ipynb to extract the latest 1000 benchmark data from the web
 
 2) Use CPUdata_avg_std.ipynb to get the standard deviation of the data
